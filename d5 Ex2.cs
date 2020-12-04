@@ -14,7 +14,7 @@ namespace Check_consist_uc_letters
             Console.WriteLine(IfConsistsOfUppercaseLetters("LOL"));  
             Console.WriteLine(IfConsistsOfUppercaseLetters("Sas")); 
             Console.WriteLine(IfConsistsOfUppercaseLetters("dog")); 
-            Console.WriteLine(IfConsistsOfUppercaseLetters("deePak"));
+            Console.WriteLine(IfConsistsOfUppercaseLetters("derrick"));
             Console.WriteLine(IfConsistsOfUppercaseLetters("ANT"));
         }
     }
