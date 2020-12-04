@@ -7,7 +7,7 @@ namespace internship_c_sharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Deepak");
+            Console.WriteLine("Derrick");
         }
     }
 }
