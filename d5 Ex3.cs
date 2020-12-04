@@ -11,8 +11,8 @@ namespace has_neighbour
 
         public static void Main()
         {
-            Console.WriteLine(IfHasNeighbour("deepak")); 
-            Console.WriteLine(IfHasNeighbour("murugesan"));
+            Console.WriteLine(IfHasNeighbour("derrick")); 
+            Console.WriteLine(IfHasNeighbour("kevin roshan"));
             Console.WriteLine(IfHasNeighbour("cd"));
         }
     }
